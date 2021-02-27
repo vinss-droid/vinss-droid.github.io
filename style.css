@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+html {
+	scroll-behavior: smooth;
+}
+
+.jumbotron {
+	background-image: url('img/jumbotron.jpg');
+	background-size: cover;
+	height: 620px;
+}
+
+.jumbotron .display-4 {
+	margin-top: 150px;
+	margin-left: 520px;
+	font-size: 32px !important;
+	font-weight: bold;
+}
+
+.jumbotron .lead {
+	margin-left: 520px;
+}
+
+.jumbotron hr {
+	margin-left: 520px;
+	width: 600px;
+}
+
+.jumbotron .btn {
+	margin-left: 520px;
+}
+
+.jumbo .jumbotron {
+	background-image: url('img/about.jpg');
+}
+
+hr {
+	width: 100px;
+	border-top: 3px solid #eaeaea;
+}
+.container .form-group input {
+	border-radius: 20px;
+}
+
+.container .form-group textarea {
+	border-radius: 20px;
+	background-color:rgba(0, 0, 0, 0);
+	color: whitesmoke;
+}
+.container .form-group input {
+	background-color:rgba(0, 0, 0, 0);
+	color: whitesmoke;
+}
+.col-md-3 img {
+	margin-left: 70px;
+	margin-top: 50px;
+}
