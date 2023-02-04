@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae75b7d5.css",
+    "main.js": "/static/js/main.8ca74fb4.js",
+    "static/media/self.png": "/static/media/self.4a69e1480fa273e2d131.png",
+    "static/media/syntax-new-member.png": "/static/media/syntax-new-member.4d492a3851c9f0353b8a.png",
+    "static/media/telsquiz.png": "/static/media/telsquiz.c486ead1572803428bc0.png",
+    "static/media/smktelesandi.png": "/static/media/smktelesandi.ef15f323f06924dde1e3.png",
+    "static/media/tels-graduation.png": "/static/media/tels-graduation.b0aafb65b7a6f8e6c9db.png",
+    "static/media/article.png": "/static/media/article.cf1fc1f29ee74720e355.png",
+    "static/media/tels-vote.png": "/static/media/tels-vote.88a435d5cdeda1adbfc5.png",
+    "static/media/tels-absensi.png": "/static/media/tels-absensi.7898e4a802adacabb191.png",
+    "static/media/currency-converter.png": "/static/media/currency-converter.56334a1eb1623a62a601.png",
+    "index.html": "/index.html",
+    "main.ae75b7d5.css.map": "/static/css/main.ae75b7d5.css.map",
+    "main.8ca74fb4.js.map": "/static/js/main.8ca74fb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae75b7d5.css",
+    "static/js/main.8ca74fb4.js"
+  ]
+}
